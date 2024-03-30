@@ -9,7 +9,7 @@ This JavaFX application is designed to help you manage your vinyl collection eff
 
 - Delete Vinyl Records: Remove vinyl records from your collection that you no longer want to keep track of.
 
-- Browse Vinyl Collection: Browse through your vinyl collection and filter records based on genre, size, and condition etc.
+- Browse Vinyl Collection: Browse through your vinyl collection and filter records based on genre, size, condition etc.
 
 - Add New Genres and Sizes: You can add new genres and sizes to the application to categorize your vinyl records effectively.
 
@@ -36,7 +36,7 @@ This JavaFX application is designed to help you manage your vinyl collection eff
 3. Click on the "Delete" button to remove the selected vinyl record from your collection.
 ### Browsing Vinyl Collection
 - Use the Home tab to view your entire vinyl collection.
-- Filter records by genre, size, and condition etc using the respective dropdown menus in the Search tab.
+- Filter records by genre, size, condition etc using the respective dropdown menus in the Search tab.
 ### Adding New Genres and Sizes
 1. Navigate to the Edit tab.
 2. Select either "Genres" or "Sizes" from the dropdown menu.
