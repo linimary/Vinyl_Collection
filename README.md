@@ -17,12 +17,12 @@ This JavaFX application is designed to help you manage your vinyl collection eff
 ### Adding Vinyl Records
 1. Navigate to the Home tab.
 2. Enter the details of the vinyl record in the provided fields:
-- Artist Name
-- Album Title
-- Release Year
-- Genre
-- Size
-- Condition
+  - Artist Name
+  - Album Title
+  - Release Year
+  - Genre
+  - Size
+  - Condition
 3. Click on the "Add" button to add the vinyl record to your collection.
 ### Modifying Vinyl Records
 1. Navigate to the Home tab.
