@@ -1,6 +1,6 @@
 # Vinyl Collection App
 
-This JavaFX application is designed to help you manage your vinyl collection effectively. You can add, modify, and delete vinyl records with ease. The application provides features for browsing your collection by various criteria such as genre, size, and condition.
+This JavaFX application is designed to help you manage your vinyl collection effectively. You can add, modify, and delete vinyl records with ease. The application provides features for browsing your collection by various criteria such as genre, size, and condition etc.
 
 ## Features
 - Add Vinyl Records: Easily add new vinyl records to your collection by providing details like artist name, album title, release year, genre, size, and condition.
