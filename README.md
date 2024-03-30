@@ -2,7 +2,7 @@
 
 This JavaFX application is designed to help you manage your vinyl collection effectively. You can add, modify, and delete vinyl records with ease. The application provides features for browsing your collection by various criteria such as genre, size, and condition.
 
-Features
+## Features
 - Add Vinyl Records: Easily add new vinyl records to your collection by providing details like artist name, album title, release year, genre, size, and condition.
 
 - Modify Vinyl Records: Update information for existing vinyl records including artist name, album title, release year, genre, size, and condition.
@@ -23,13 +23,13 @@ Features
 - Genre
 - Size
 - Condition
-Click on the "Add" button to add the vinyl record to your collection.
-Modifying Vinyl Records
-Navigate to the Home tab.
-Select the vinyl record you want to modify from the table.
-Click on the "Modify" button.
-Update the information in the dialog that appears.
-Click "Submit" to save the changes.
+3. Click on the "Add" button to add the vinyl record to your collection.
+### Modifying Vinyl Records
+1. Navigate to the Home tab.
+2. Select the vinyl record you want to modify from the table.
+3. Click on the "Modify" button.
+4. Update the information in the dialog that appears.
+5. Click "Submit" to save the changes.
 Deleting Vinyl Records
 Navigate to the Home tab.
 Select the vinyl record you want to delete from the table.
